@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Rabia
+- 👀 I’m interested in DATA science domain
+- 🌱 I’m currently learning python courses
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me : rabia.benabed@edu.dsti.institute
+- i'm a DSTI student !
